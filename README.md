@@ -11,6 +11,8 @@ This open performance optimization toolkit is engineered specifically to elimina
 
 ---
 
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/d64e7559-4689-4985-bd80-8d177d3aee2a" />
+
 ### [📥 Download Bodycam FPS Booster & Optimizer 2026](https://github.com)
 *(Click above to get the latest release build)*
 
